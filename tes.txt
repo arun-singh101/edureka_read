@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this ils testing onley
+=======
+hisoa;ojfao;hgf;oha;ohvao'
+>>>>>>> new
